@@ -1,5 +1,4 @@
 # Nate Norris
-### Developer & Artist
 
 Welcome! My name is Nate; I'm a 22-year-old developer from Chicago, currently working at Argonne National Laboratory.
 
