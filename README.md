@@ -8,11 +8,11 @@ I enjoy developing meaningful applications, playing music, and seeing code as an
 I graduate in December 2020; looking for full-time opportunities!
 
 ## My Values
-:pray: Gratitude and empathy
-:mag_right: Extensible and efficient code
-:blue_heart: Unshakable kindness
-:raised_hands: Creating works I am proud of
-:bar_chart: Concise, honest communication
+* :pray: Gratitude and empathy
+* :mag_right: Extensible and efficient code
+* :blue_heart: Unshakable kindness
+* :raised_hands: Creating works I am proud of
+* :bar_chart: Concise, honest communication
 
 ## My Interests
 * Problem-solving through software
