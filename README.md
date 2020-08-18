@@ -21,7 +21,7 @@ I will graduate in December 2020 with my B.S. Computer Science from North Centra
 
 ## For More Information
 
-Personal website (coming soon!)
+Check out my [website](http://nnorris.com)
 
 Email: nate@nnorris.com
 
