@@ -17,7 +17,7 @@ I will graduate in December 2020 with my B.S. Computer Science from North Centra
 * Problem-solving through software
 * Machine learning
 * Piano, guitar, drums, & voice
-* Card games
+* Growing and learning new skills
 
 ## For More Information
 
