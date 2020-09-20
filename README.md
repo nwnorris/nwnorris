@@ -8,14 +8,11 @@ I will graduate in December 2020 with my B.S. Computer Science from North Centra
 
 ## My Values
 :pray: Gratitude and empathy
-
 :mag_right: Extensible and efficient code
-
+:bar_chart: Concise, honest communication
+:raised_hands: Creating works I am proud of
 :blue_heart: Unshakable kindness
 
-:raised_hands: Creating works I am proud of
-
-:bar_chart: Concise, honest communication
 
 ## My Interests
 * Problem-solving through software
