@@ -7,10 +7,15 @@ I enjoy developing meaningful applications, playing music, and seeing code as an
 I will graduate in December 2020 with my B.S. Computer Science from North Central College; looking for full-time opportunities!
 
 ## My Values
+
 :pray: Gratitude and empathy
+
 :mag_right: Extensible and efficient code
+
 :bar_chart: Concise, honest communication
+
 :raised_hands: Creating works I am proud of
+
 :blue_heart: Unshakable kindness
 
 
