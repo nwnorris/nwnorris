@@ -4,8 +4,6 @@ Welcome! My name is Nate; I'm a 22-year-old developer from Chicago, currently wo
 
 I enjoy developing meaningful applications, playing music, and seeing code as an art form in it's own right.
 
-I will graduate in December 2020 with my B.S. Computer Science from North Central College; looking for full-time opportunities!
-
 ## My Values
 
 :pray: Gratitude and empathy
