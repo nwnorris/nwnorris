@@ -6,16 +6,13 @@ I enjoy developing meaningful applications, playing music, and seeing code as an
 
 ## My Values
 
-:pray: Gratitude and empathy
+- Gratitude and empathy
 
-:mag_right: Extensible and efficient code
+- Extensible and efficient code
 
-:bar_chart: Concise, honest communication
+- Concise, honest communication
 
-:raised_hands: Creating works I am proud of
-
-:blue_heart: Unshakable kindness
-
+- Creating works I am proud of
 
 ## My Interests
 * Problem-solving through software
