@@ -15,10 +15,13 @@ I enjoy developing meaningful applications, playing music, and seeing code as an
 - Creating works I am proud of
 
 ## My Interests
-* Problem-solving through software
-* Machine learning
-* Piano, guitar, drums, & voice
-* Growing and learning new skills
+- Problem solving
+
+- Machine learning
+
+- Piano, guitar, drums, & voice
+
+- Growing and learning new skills
 
 ## For More Information
 
