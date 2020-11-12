@@ -2,7 +2,7 @@
 
 Welcome! My name is Nate; I'm a 22-year-old developer from Chicago, currently working at Argonne National Laboratory.
 
-I enjoy developing meaningful applications, playing music, and seeing code as an art form in it's own right.
+I develop meaningful applications, play music, and see code as an art form in it's own right.
 
 ## My Values
 
