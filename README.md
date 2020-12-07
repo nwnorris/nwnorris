@@ -1,6 +1,6 @@
 # Nate Norris
 
-Welcome! My name is Nate; I'm a 22-year-old developer from Chicago, currently working at Argonne National Laboratory.
+Welcome! My name is Nate; I'm a 22-year-old developer from Chicago, currently working as an Associate Web Developer (Full Stack) at QsrSoft.
 
 I develop meaningful applications, play music, and see code as an art form in it's own right.
 
@@ -13,15 +13,6 @@ I develop meaningful applications, play music, and see code as an art form in it
 - Concise, honest communication
 
 - Creating works I am proud of
-
-## My Interests
-- Problem solving
-
-- Machine learning
-
-- Piano, guitar, drums, & voice
-
-- Growing and learning new skills
 
 ## For More Information
 
