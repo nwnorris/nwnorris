@@ -1,6 +1,6 @@
 # Nate Norris
 
-Welcome! My name is Nate; I'm a 22-year-old developer from Chicago, currently working as an Associate Web Developer (Full Stack) at QsrSoft.
+Welcome! My name is Nate; I'm a 22-year-old developer from Chicago, currently working as a full-stack dev at QsrSoft.
 
 I develop meaningful applications, create music, and see code as an art form in it's own right.
 
@@ -14,9 +14,7 @@ I develop meaningful applications, create music, and see code as an art form in 
 
 - Creating works I am proud of
 
-## For More Information
-
-Check out my [website](http://nnorris.com)
+## Connect with me
 
 Email: nate@nnorris.com
 
