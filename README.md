@@ -1,6 +1,6 @@
 # Nate Norris
 
-Welcome! My name is Nate; I'm a 22-year-old developer from Chicago, currently working as a full-stack dev at QsrSoft.
+Welcome! My name is Nate; I'm a 22-year-old developer from Chicago, currently specializing in high-velocity GraphQL and DynamoDB workloads.
 
 I develop meaningful applications, create music, and see code as an art form in it's own right.
 
